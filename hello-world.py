@@ -1,5 +1,4 @@
-def greet():
-    print("Hello! Welcome to the Hello World project!") #Mensagem ajustada
+def soma(a, b):
+    return a + b
 
-greet()
-print("Hello, World!")
+print (soma(3, 5))
